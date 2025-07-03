@@ -8,8 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-valmeida&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-valmeida&layout=compact&langs_count=5&theme=github_dark&hide_border=true&exclude_repo=Data-Structures-and-Algorithms,Jornada-Full-Stack)](https://github.com/marcus-valmeida/github-readme-stats)
 
 <div style="display: inline_block"><br>
- 
-  
+  <img align="center" alt="vini-JUPTER" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="vini-PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vini-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="vini-c++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
