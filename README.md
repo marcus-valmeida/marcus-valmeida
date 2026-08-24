@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marcus Vinicius 👋
 
 - 🔐 Atualmente trabalho com **criptografia pós-quântica (PQC)**, com atenção à viabilidade dos algoritmos padronizados pelo NIST em plataformas de recursos restritos.
-- 💻 Tenho interesse em **computação quântica** e **sistemas embarcados**.
+- 💻 Tenho interesse também em **computação quântica** e **sistemas embarcados**.
 
 
 
